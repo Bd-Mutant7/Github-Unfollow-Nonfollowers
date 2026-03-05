@@ -9,6 +9,8 @@
 
 A Python script that uses the GitHub API to automatically unfollow users who don't follow you back.
 
+</div>
+
 
 ## Features
 
@@ -129,5 +131,4 @@ Please report security issues **privately** via GitHub's [security advisory](htt
 
 If you find this useful, please consider giving it a star! ⭐
 
-</div>
 
