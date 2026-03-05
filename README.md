@@ -74,17 +74,17 @@ python unfollow_nonfollowers.py --unfollow
   
   ```text
   Fetching followers...
-Found 150 followers
-Fetching following...
-Following 200 users
+   Found 150 followers
+   Fetching following...
+   Following 200 users
 
-Analyzing...
-You are following 50 users who don't follow you back:
+   Analyzing...
+   You are following 50 users who don't follow you back:
 
-Users to unfollow:
-- user1 (https://github.com/user1)
-- user2 (https://github.com/user2)
-- user3 (https://github.com/user3)
+  Users to unfollow:
+   - user1 (https://github.com/user1)
+   - user2 (https://github.com/user2)
+   - user3 (https://github.com/user3)
 
-Run with --unfollow to unfollow these users
+   Run with --unfollow to unfollow these users
 
