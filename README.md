@@ -97,3 +97,36 @@ python unfollow_nonfollowers.py --unfollow
 
    Run with --unfollow to unfollow these users
 
+
+
+## Development
+
+Want to contribute? Great! Check out our [contributing guidelines](CONTRIBUTING.md).
+
+### Quick Setup for Development
+
+```bash
+# Clone your fork
+git clone https://github.com/your-username/github-unfollow-nonfollowers.git
+cd github-unfollow-nonfollowers
+
+# Set up development environment
+make install
+cp .env.example .env
+# Edit .env with your credentials
+
+# Run tests
+make test
+
+# Format code
+make format
+```
+
+## Security
+
+Please report security issues **privately** via GitHub's [security advisory](https://docs.github.com/en/code-security/security-advisories) feature.
+
+## Star History
+
+If you find this useful, please consider giving it a star! ⭐
+
