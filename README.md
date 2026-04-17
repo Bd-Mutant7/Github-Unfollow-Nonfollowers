@@ -2,6 +2,9 @@
 
 A simple Python script that uses the **GitHub REST API** to automatically unfollow anyone who isn't following you back.
 
+
+[![Support](https://img.shields.io/badge/Support-Paystack-00C3F7?style=for-the-badge&logo=paypal&logoColor=white)](https://paystack.shop/pay/bd-mutant7)
+
 ---
 
 ## Features
